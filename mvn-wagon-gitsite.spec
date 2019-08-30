@@ -4,7 +4,7 @@
 #
 Name     : mvn-wagon-gitsite
 Version  : 0.5
-Release  : 1
+Release  : 2
 URL      : https://github.com/stephenc/wagon-gitsite/archive/wagon-gitsite-0.5.tar.gz
 Source0  : https://github.com/stephenc/wagon-gitsite/archive/wagon-gitsite-0.5.tar.gz
 Source1  : https://repo1.maven.org/maven2/com/github/stephenc/wagon/wagon-gitsite/0.5/wagon-gitsite-0.5.jar
